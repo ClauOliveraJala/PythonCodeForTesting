@@ -1,3 +1,3 @@
-print("Hola!")
-#Annadimos nuevas lineas para hacer push
-print("Soy una nueva linea del local")
+print("Hi!")
+#New lines to push into the remote
+print("I am a new line")
